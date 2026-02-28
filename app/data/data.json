@@ -3,7 +3,7 @@
         "id": 1,
         "dateEng": " August 15 1769",
         "incidentEng": "Napoleon was born in Ajaccio",
-        "category": "Personel",
+        "category": "Personal",
         "location": {
             "lat": 0,
             "lon": 0
@@ -30,7 +30,7 @@
         "id": 2,
         "dateEng": "December 15 1778",
         "incidentEng": "Napoleon made his first trip to France",
-        "category": "Personel",
+        "category": "Personal",
         "location": {
             "lat": 0,
             "lon": 0
@@ -47,7 +47,7 @@
         "id": 3,
         "dateEng": "January 1 1779",
         "incidentEng": "Napoleon was admitted on January 1st to the College of Autun in Burgundy.",
-        "category": "Personel",
+        "category": "Personal",
         "location": {
             "lat": 0,
             "lon": 0
@@ -64,7 +64,7 @@
         "id": 4,
         "dateEng": "May 15 1779",
         "incidentEng": "Napoleon Bonaparte entered the École Militaire de Brienne",
-        "category": "Personel",
+        "category": "Personal",
         "location": {
             "lat": 0,
             "lon": 0
@@ -91,7 +91,7 @@
         "id": 5,
         "dateEng": "17 October 1784",
         "incidentEng": "Napoleon Bonaparte entered the Royal Military School in Paris.",
-        "category": "Personel",
+        "category": "Personal",
         "location": {
             "lat": 0,
             "lon": 0
@@ -108,7 +108,7 @@
         "id": 6,
         "dateEng": "24 February 1785",
         "incidentEng": "Carlo Buonaparte, the father of Napoleon Bonaparte, died in Montpellier, leaving the family in financial difficulty.",
-        "category": "Personel",
+        "category": "Personal",
         "location": {
             "lat": 0,
             "lon": 0
@@ -130,7 +130,7 @@
         "id": 7,
         "dateEng": "28 October 1785",
         "incidentEng": "Napoleon Bonaparte graduated from the École Militaire de Paris and was commissioned as a Second Lieutenant of Artillery.",
-        "category": "Personel",
+        "category": "Personal",
         "location": {
             "lat": 0,
             "lon": 0
@@ -174,7 +174,7 @@
         "id": 9,
         "dateEng": "15 September 1786",
         "incidentEng": "Young Napoleon Bonaparte returned to Corsica on his first leave",
-        "category": "Personel",
+        "category": "Personal",
         "location": {
             "lat": 0,
             "lon": 0
@@ -191,7 +191,7 @@
         "id": 10,
         "dateEng": "1 June 1788",
         "incidentEng": "Lieutenant Bonaparte returned to France and resumed active military service at Auxonne.",
-        "category": "Personel",
+        "category": "Personal",
         "location": {
             "lat": 0,
             "lon": 0
@@ -291,7 +291,7 @@
         "id": 15,
         "dateEng": "15 June 1791",
         "incidentEng": "Young Napoleon returned to his artillery regiment in Auxonne after his involvement in Corsican politics.",
-        "category": "Personel",
+        "category": "Personal",
         "location": {
             "lat": 0,
             "lon": 0
@@ -325,7 +325,7 @@
         "id": 17,
         "dateEng": "15 June 1791",
         "incidentEng": "Young Napoleon returned to his artillery regiment in Auxonne after his involvement in Corsican politics.",
-        "category": "Personel",
+        "category": "Personal",
         "location": {
             "lat": 0,
             "lon": 0
@@ -403,7 +403,7 @@
         "id": 21,
         "dateEng": "May 1792",
         "incidentEng": "Napoleon returned to Paris from Corsica to continue his military and political career amid the revolutionary turmoil in France.",
-        "category": "Personel",
+        "category": "Personal",
         "location": {
             "lat": 0,
             "lon": 0
@@ -464,7 +464,7 @@
         "id": 24,
         "date": "11 June 1793",
         "incidentEng": "After a political break with Pasquale Paoli and the looting of the Bonaparte family home by Paoli’s supporters, Napoleon fled Corsica with his family",
-        "category": "Personel",
+        "category": "Personal",
         "location": {
             "lat": 0,
             "lon": 0
@@ -545,6 +545,67 @@
     },
     {
         "id": 28,
+        "date": "29 August 1793",
+        "incidentEng": "Napoleon Bonaparte joined the Republican forces at Toulon on 29 August 1793.",
+        "category": "Military",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "https://upload.wikimedia.org/wikipedia/commons/2/20/Napoleon_%C3%A0_Toulon_par_Edouard_Detaille.jpg",
+                "imgdesc": "Napoleon Bonaparte at the Siege of Toulon in 1793, showing his early leadership in Republican forces during the French Revolutionary Wars."
+            },
+            {
+                "imgid": 2,
+                "imglink": "https://images-cdn.bridgemanimages.com/api/1.0/image/150.JLJ.28012640.7055475/4617903.jpg",
+                "imgdesc": "Illustration of Napoleon directing artillery at the Siege of Toulon, demonstrating his emerging tactical skills in 1793."
+            },
+            {
+                "imgid": 3,
+                "imglink": "https://i.ytimg.com/vi/aT6hPPH0d48/maxresdefault.jpg",
+                "imgdesc": "An early depiction of Napoleon in action during the Siege of Toulon, a key moment that propelled his military career forward."
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "dateEng": "September 1793",
+        "incidentEng": "Napoleon developed artillery plans at Toulon, proposing the capture of key forts to secure the city against the British and Spanish forces.",
+        "category": "Military",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgID": 1,
+                "imgLink": "https://www.mediastorehouse.co.uk/p/690/napoleon-i-siege-toulon-august-december-1793-22474822.jpg.webp",
+                "imgDescriptionEng": "Illustration depicting the Siege of Toulon (August–December 1793), a key early battle of the French Revolutionary Wars in which young artillery officer Napoleon Bonaparte played a decisive role in recapturing the strategic port from British, Spanish, and royalist forces"
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "dateEng": "September 1793",
+        "incidentEng": "Napoleon developed artillery plans at Toulon, proposing the capture of key forts to secure the city against the British and Spanish forces.",
+        "category": "Military",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgID": 1,
+                "imgLink": "https://www.mediastorehouse.co.uk/p/690/napoleon-i-siege-toulon-august-december-1793-22474822.jpg.webp",
+                "imgDescriptionEng": "Illustration depicting the Siege of Toulon (August–December 1793), a key early battle of the French Revolutionary Wars in which young artillery officer Napoleon Bonaparte played a decisive role in recapturing the strategic port from British, Spanish, and royalist forces"
+            }
+        ]
+    },
+    {
+        "id": 31,
         "date": "5 September 1793",
         "incidentEng": "During the Reign of Terror in September 1793, Republican authorities intensified actions against federalist rebels in southern France. Napoleon, recently stationed in Avignon, continued to support military operations while witnessing the revolutionary government's harsh measures.",
         "category": "Historical",
@@ -559,22 +620,22 @@
                 "imgdesc": "Execution by guillotine of nine émigrés in October 1793 during the Reign of Terror, showing revolutionary justice against perceived enemies of the Republic."
             },
             {
-                "imgid": 1,
+                "imgid": 2,
                 "imglink": "https://www.worldhistory.org/img/r/p/1500x1500/16588.jpg",
                 "imgdesc": "Execution by guillotine in the Place de la Révolution in Paris during the Reign of Terror in 1793–1794, showing the public execution of suspected counter‑revolutionaries."
             },
             {
-                "imgid": 1,
+                "imgid": 3,
                 "imglink": "https://evrenatlasi.com.tr/wp-content/uploads/2023/09/robespierre-idam-giyotin.jpg",
                 "imgdesc": "Depiction of Maximilien Robespierre’s execution by guillotine in Paris on 28 July 1794, marking the fall of the leading figure of the Reign of Terror."
             }
         ]
     },
     {
-        "id": 29,
+        "id": 32,
         "date": "16 October 1793",
         "category": "Historical",
-        "incidentEng": "During the Reign of Terror in September 1793, Republican authorities intensified actions against federalist rebels in southern France. Napoleon, recently stationed in Avignon, continued to support military operations while witnessing the revolutionary government's harsh measures.",
+        "incidentEng": "During the Reign of Terror in September 1793, Republican authorities intensified actions against federalist rebels in southern France.",
         "location": {
             "lat": 0,
             "lon": 0
@@ -586,15 +647,167 @@
                 "imgdesc": "Queen Marie Antoinette (1755-1793) being escorted from the Conciergerie to the guillotine in Paris on 16 October 1793 during the Reign of Terror, shortly before her execution."
             },
             {
-                "imgid": 1,
+                "imgid": 2,
                 "imglink": "https://germanhistorydocs.org/media/volume-2/image-2942/64329_ca_object_representations_media_5583_frontend.jpg",
                 "imgdesc": "Marie Antoinette after her execution by guillotine in Paris on 16 October 1793, capturing the final moments of the former queen during the Reign of Terror."
             },
             {
-                "imgid": 1,
+                "imgid": 3,
                 "imglink": "https://evrenatlasi.com.tr/wp-content/uploads/2023/09/robespierre-idam-giyotin.jpg",
                 "imgdesc": "Depiction of Maximilien Robespierre’s execution by guillotine in Paris on 28 July 1794, marking the fall of the leading figure of the Reign of Terror."
             }
+        ]
+    },
+    {
+        "id": 33,
+        "date": "17 December 1793",
+        "category": "Military",
+        "incidentEng": "Republican forces successfully recaptured Toulon from British, Spanish, and royalist control, securing the strategic port for revolutionary France.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "https://i.pinimg.com/564x/74/6e/9d/746e9dbb3296301432f68de7d942cfba.jpg",
+                "imgdesc": "Napoleon’s strategic skills at Toulon ensured the port’s recapture and marked the beginning of his rapid ascent in military ranks."
+            },
+            {
+                "imgid": 2,
+                "imglink": "https://www.shutterstock.com/editorial/image-editorial/N3T7g356MdDfg3x4MTk3NQ==/siege-toulon-19-december-1793-watercolour-by-440nw-5850798ag.jpg",
+                "imgdesc": "Depiction of the battlefield during the final phase of the Siege of Toulon (29 August – 19 December 1793), showing the intensity of the Republican assault that forced the Allied evacuation and the recapture of the strategic port city"
+            },
+            {
+                "imgid": 3,
+                "imglink": "https://i.pinimg.com/736x/ae/aa/11/aeaa119107bd8b67840095329c3dd773.jpg",
+                "imgdesc": "Depiction of Napoleon Bonaparte on the battlefield, standing alongside his troops and directing military operations, illustrating his early leadership and tactical role during the French Revolutionary Wars."
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "date": "22 December 1793",
+        "category": "Personal",
+        "incidentEng": "Following the successful recapture of Toulon, Napoleon Bonaparte was promoted to Brigadier General (Général de brigade) at the age of 24, marking his first major military advancement.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "https://www.napoleon.org/wp-content/thumbnails/uploads/2019/05/jean-baptiste-edouard-detaille-bonaparte-au-siege-de-toulon-1793-paris-musee-de-larmee-tt-width-434-height-630-fill-0-crop-1-bgcolor-ffffff-lazyload-0.jpg",
+                "imgDescriptionEng": "Depiction of Napoleon Bonaparte at the Siege of Toulon (1793). He earned his promotion to Brigadier General through his innovative use of artillery, effectively targeting key forts and directing Republican forces, which led to the successful recapture of the port from British, Spanish, and royalist control."
+            },
+            {
+                "imgid": 2,
+                "imglink": "https://www.shutterstock.com/editorial/image-editorial/N3T7g356MdDfg3x4MTk3NQ==/siege-toulon-19-december-1793-watercolour-by-440nw-5850798ag.jpg",
+                "imgdesc": "Depiction of the battlefield during the final phase of the Siege of Toulon (29 August – 19 December 1793), showing the intensity of the Republican assault that forced the Allied evacuation and the recapture of the strategic port city"
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "date": "27 July 1794",
+        "category": "Historical",
+        "incidentEng": "Maximilien Robespierre, leader of the Jacobins and key figure of the Reign of Terror, was arrested and executed on 27 July 1794 (9 Thermidor), marking the end of the Reign of Terror in France.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "https://www.worldhistory.org/img/r/p/1500x1500/15738.jpgjean-baptiste-edouard-detaille-bonaparte-au-siege-de-toulon-1793-paris-musee-de-larmee-tt-width-434-height-630-fill-0-crop-1-bgcolor-ffffff-lazyload-0.jpg",
+                "imgDescriptionEng": "Portrait of Maximilien Robespierre (1758-1794), the influential Jacobin leader and figure of the Reign of Terror during the French Revolution."
+            },
+            {
+                "imgid": 2,
+                "imgLink": "https://res.cloudinary.com/aenetworks/image/upload/c_fill,ar_2,w_3840,h_1920/g_auto/dpr_auto/f_auto/q_auto:eco/v1/maximilien-robespierre-gettyimages-959571310?_a=BAVAZGB00",
+                "imgDescriptionEng": "Robespierre being captured and later taken to the guillotine during the Coup of 9 Thermidor, ending the radical phase of the French Revolution."
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "date": "9 August 1794",
+        "category": "Personal",
+        "incidentEng": "After the fall of Maximilien Robespierre and the collapse of the Jacobin regime on 27 July 1794 (9 Thermidor), Napoleon Bonaparte was arrested  due to his suspected association with the Robespierre brothers. He was detained and interrogated for about two weeks before being released without formal charges, though his military career was temporarily suspended.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "https://03a05ded31.cbaul-cdnwnd.com/893fa48888d70e51eb49628fc01587a1/200002873-d3e26d5d38/Napol%C3%A9on%20emprisonn%C3%A9%201794.jpg",
+                "imgDescriptionEng": "Napoleon imprisoned in 1794 after the fall of the Jacobins, suspected of ties to the Robespierre brothers."
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "date": "20 August 1794",
+        "category": "Personal",
+        "incidentEng": "Napoleon Bonaparte was released from detention after being arrested due to his suspected association with the Robespierre brothers. He faced no formal charges, but his military career remained temporarily suspended.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "https://www.mediastorehouse.com/p/690/napoleon-i-bonaparte-1769-1821-22296570.jpg.webp",
+                "imgDescriptionEng": "Depiction of Napoleon Bonaparte during his brief detention in 1794 following the fall of Robespierre at Fort Carré."
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "date": "20 August 1794",
+        "category": "Personal",
+        "incidentEng": "Napoleon Bonaparte was released from detention after being arrested due to his suspected association with the Robespierre brothers. He faced no formal charges, but his military career remained temporarily suspended.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "https://www.mediastorehouse.com/p/690/napoleon-i-bonaparte-1769-1821-22296570.jpg.webp",
+                "imgDescriptionEng": "Depiction of Napoleon Bonaparte during his brief detention in 1794 following the fall of Robespierre at Fort Carré."
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "date": "21 April 1795",
+        "category": "Personal",
+        "incidentEng": "Napoleon became briefly engaged to Désirée Clary, a merchant's daughter from Marseille. The engagement ended when she hesitated to move to Paris, but Napoleon remembered her fondly.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "https://i.pinimg.com/474x/93/79/97/9379970facc8b400132745d29b0402d8.jpg",
+                "imgDescriptionEng": "Desirée Clary (1777-1860) became engaged to Napoleon on April 21, 1795, but he broke the engagement off on September 6 when he became involved with Joséphine de Beauharnais. She freed him from his promise of marriage."
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "date": "2 October 1795",
+        "category": "Military",
+        "incidentEng": "Napoleon was appointed commander of the forces to suppress the royalist uprising in Paris.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {}
         ]
     }
 ]
