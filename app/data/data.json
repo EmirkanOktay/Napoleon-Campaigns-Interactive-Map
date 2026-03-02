@@ -807,7 +807,196 @@
             "lon": 0
         },
         "img": [
-            {}
+            {
+                "imgid": 1,
+                "imglink": "",
+                "imgDescriptionEng": ""
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "date": "5 October 1795",
+        "category": "Personal",
+        "incidentEng": "Following his decisive victory in the 13 Vendémiaire uprising, Napoleon was promoted to Major General and appointed Commander in Chief of the Army of the Interior, marking a major step in his military career.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Charles_Monnet_-_The_Journ%C3%A9e_of_13_Vend%C3%A9miaire.jpg/500px-Charles_Monnet_-_The_Journ%C3%A9e_of_13_Vend%C3%A9miaire.jpg",
+                "imgDescriptionEng": "Painting by Charles Monnet depicting Napoleon commanding Republican forces against royalist insurgents near Saint-Roch Church on 13 Vendémiaire, 1795 (5 October 1795). It shows the use of artillery to suppress the uprising, symbolizing Napoleon's early military genius."
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "date": "2 October 1795",
+        "category": "Military",
+        "incidentEng": "Napoleon was appointed commander of the forces to suppress the royalist uprising in Paris.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "",
+                "imgDescriptionEng": ""
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "date": "15 October 1795",
+        "category": "Personal",
+        "incidentEng": "General Napoleon Bonaparte first met Marie-Josèphe-Rose de Tascher de la Pagerie (1763-1814), widow of Alexandre de Beauharnais(1760-1793), at Paul Barras’s house in Paris.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "https://rotka.org/wp-content/uploads/2023/11/images_GettyImages_mmsport_mentalfloss_01hf4syrkr545w23zf7k.jpg",
+                "imgDescriptionEng": "Illustration representing Joséphine de Beauharnais, whom Napoleon met in Paris shortly after the 13 Vendémiaire uprising. She later became Empress of the French."
+            },
+            {
+                "imgid": 2,
+                "imglink": "https://www.worldhistory.org/img/r/p/1500x1500/17994.jpg.webp?v=1696458050-1696487709",
+                "imgDescriptionEng": "Portrait of Alexandre de Beauharnais, French noble and general who was married to Joséphine before she later married Napoleon. He played roles in politics and war during the French Revolution but was executed in 1794."
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "date": "2 March 1796",
+        "category": "Military",
+        "incidentEng": "Napoleon Bonaparte was appointed commander of the French Republic's Army of Italy, marking his first major foreign command and a key turning point in his military career.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "",
+                "imgDescriptionEng": ""
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "date": "9 March 1796",
+        "category": "Personal",
+        "incidentEng": "Napoleon Bonaparte married Marie-Josèphe-Rose de Tascher de la Pagerie, later known as Joséphine de Beauharnais, solidifying their personal and political alliance.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "",
+                "imgDescriptionEng": ""
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "date": "11 March 1796",
+        "category": "Military",
+        "incidentEng": "Napoleon Bonaparte departed from Paris to take command of the Army of Italy, beginning his campaign that would soon bring him major victories in Northern Italy.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "",
+                "imgDescriptionEng": ""
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "date": "27 March 1796",
+        "category": "Military",
+        "incidentEng": "Napoleon Bonaparte arrived in Nice and officially assumed command of the Army of Italy, taking control of poorly supplied troops and preparing them for the upcoming Italian campaign.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "",
+                "imgDescriptionEng": ""
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "date": "2 April 1796",
+        "category": "Military",
+        "incidentEng": "Napoleon Bonaparte reached Menton, marking the effective beginning of the Italian Campaign of 1796–1797 as French forces advanced toward Austrian and Piedmontese positions.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "https://pbs.twimg.com/media/DHx6Ah4V0AQMT-j.jpg",
+                "imgDescriptionEng": "Political map illustrating Italy’s fragmented territories before and during Napoleon’s 1796–1797 campaign."
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "date": "10 April 1796",
+        "category": "Military",
+        "incidentEng": "Napoleon launched the offensive against the Austrian army, beginning active military operations in the Italian Campaign of 1796–1797.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "",
+                "imgDescriptionEng": ""
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "date": "12 April 1796",
+        "category": "Military",
+        "incidentEng": "Battle of Montenotte: Napoleon defeated Austrian forces, securing his first major victory in the Italian Campaign and separating Austrian and Sardinian armies.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "https: //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Rampon_Monte_Legino_%28cropped%29.jpg/500px-Rampon_Monte_Legino_%28cropped%29.jpg",
+                "imgDescriptionEng": "Brigade chief Rampon defends the Monte-Legino redoubt against the Austro-Sardinians near Montenotte"
+            },
+            {
+                "imgid": 2,
+                "imglink": "https://casettamontenotte.com/wp-content/uploads/2014/03/battaglinapoleonecastiglione.jpg",
+                "imgDescriptionEng": "Depiction of Napoleon at the Battle of Montenotte, commanding French troops against Austrian forces"
+            },
+            {
+                "imgid": 3,
+                "imglink": "https://warfarehistorynetwork.com/wp-content/uploads/2015/11/M-Nap.Italy-5-4C-Jun03.jpg",
+                "imgDescriptionEng": "French forces under Napoleon attack Austrian positions at Montenotte, using rapid maneuvers to split enemy lines and secure a key victory in the Italian campaign."
+            }
         ]
     }
 ]
