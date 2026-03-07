@@ -998,5 +998,370 @@
                 "imgDescriptionEng": "French forces under Napoleon attack Austrian positions at Montenotte, using rapid maneuvers to split enemy lines and secure a key victory in the Italian campaign."
             }
         ]
-    }
+    },
+    {
+        "id": 51,
+        "date": "13 April 1796",
+        "category": "Military",
+        "incidentEng": "Battle of Millesimo: French forces under Napoleon Bonaparte defeated Austrian and Sardinian troops, forcing them to retreat and consolidating French control in northern Italy during the Italian campaign.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "",
+                "imgDescriptionEng": ""
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "date": "14 April 1796",
+        "category": "Military",
+        "incidentEng": "French forces under Napoleon entered Cosseria after defeating Austrian and Sardinian troops in the surrounding battles. The capture of Cosseria strengthened French control in the region during the early phase of the Italian Campaign.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "",
+                "imgDescriptionEng": ""
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "date": "15 April 1796",
+        "category": "Military",
+        "incidentEng": "Victory of Dego: Napoleon defeated Austrian forces at Dego, securing another success in the Italian Campaign and further separating the Austrian and Sardinian armies.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "https://upload.wikimedia.org/wikipedia/en/thumb/1/14/The_Death_of_General_Causse_at_the_Battle_of_Dego.png/960px-The_Death_of_General_Causse_at_the_Battle_of_Dego.png",
+                "imgDescriptionEng": "History painting by François Mulard (1812) illustrating the death of General Causse at the Battle of Dego during Napoleon’s 1796 Italian Campaign."
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "date": "21 April 1796",
+        "category": "Military",
+        "incidentEng": "Battle of Mondovi: Napoleon defeated the Sardinian army, forcing the Kingdom of Sardinia to seek peace and effectively removing it from the war in the early Italian Campaign.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "",
+                "imgDescriptionEng": ""
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "date": "7 May 1796",
+        "category": "Military",
+        "incidentEng": "Napoleon Bonaparte crossed the Po River and entered Piacenza, outmaneuvering Austrian forces and advancing deeper into northern Italy.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "",
+                "imgDescriptionEng": ""
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "date": "10 May 1796",
+        "category": "Military",
+        "incidentEng": "Battle of Lodi: Napoleon’s army defeated Austrian forces after a fierce fight at the bridge over the Adda River, allowing the French to continue their advance into northern Italy.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "https://www.worldhistory.org/img/r/p/1000x1200/17334.jpg.webp?v=1717069923-1682586450",
+                "imgDescriptionEng": "Historical painting by Louis-François Lejeune depicting the dramatic assault on the bridge at Lodi, where French troops advanced under heavy fire and defeated the Austrian rear guard."
+            },
+            {
+                "imgid": 2,
+                "imglink": "https://www.worldhistory.org/img/r/p/1500x1500/17335.jpg.webp?v=1717069930-1682586544",
+                "imgDescriptionEng": "French artillery firing across the Adda River during the Battle of Lodi, supporting Napoleon’s assault."
+            },
+            {
+                "imgid": 3,
+                "imglink": "https://www.worldhistory.org/img/r/p/1500x1500/17336.jpg.webp?v=1717069932-1682586635",
+                "imgDescriptionEng": "Battle of Lodi (1796)"
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "date": "25 May 1796 ",
+        "category": "Military",
+        "incidentEng": "The people of Milan revolted against the French occupation in 24 May 1796. And Napoleon Bonaparte suppressed the Milan uprising. The nearby village of Binasco was burned, and a proclamation threatened the people of Lombardy with severe reprisals.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "",
+                "imgDescriptionEng": ""
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "date": "25 May 1796 ",
+        "category": "Military",
+        "incidentEng": "The people of Milan revolted against the French occupation in 24 May 1796. And Napoleon Bonaparte suppressed the Milan uprising. The nearby village of Binasco was burned, and a proclamation threatened the people of Lombardy with severe reprisals.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "",
+                "imgDescriptionEng": ""
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "date": "27 May 1796 ",
+        "category": "Military",
+        "incidentEng": "Napoleon Bonaparte's French forces entered Brescia.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "",
+                "imgDescriptionEng": ""
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "date": "30 July 1796 ",
+        "category": "Military",
+        "incidentEng": "Siege of Mantua: Napoleon Bonaparte's French forces laid siege to the Austrian-held fortress of Mantua in northern Italy. The siege lasted several months, with repeated attempts by Austrian relief armies to break it..",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Victor_Adam_-_Battle_of_Castiglione_-_1836.jpg/500px-Victor_Adam_-_Battle_of_Castiglione_-_1836.jpg",
+                "imgDescriptionEng": "This scene depicts the battle between Napoleon Bonaparte's French Army and the Austrian forces. The French defeated the Austrian troops near Castiglione delle Stiviere. The battle was one of the major victories of the Italian campaign, weakening Austrian resistance in northern Italy."
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "date": "27 May 1796 ",
+        "category": "Military",
+        "incidentEng": "Victory of Roveredo : French forces under Napoleon Bonaparte defeated an Austrian corps led by Paul Davidovich near Rovereto, inflicting heavy losses.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Clarkson_Frederick_Stanfield_%281793-1867%29_-_The_Battle_of_Roveredo%2C_1796_-_THC0069_-_Royal_Holloway%2C_University_of_London.jpg/500px-Clarkson_Frederick_Stanfield_%281793-1867%29_-_The_Battle_of_Roveredo%2C_1796_-_THC0069_-_Royal_Holloway%2C_University_of_London.jpg",
+                "imgDescriptionEng": "Depicts the Battle of Roveredo  where French forces under Napoleon Bonaparte engaged and defeated Austrian troops near Rovereto. The French assault broke the Austrian line, contributing to French advances in the northern Italy campaign."
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "date": "8 September 1796",
+        "category": "Military",
+        "incidentEng": "Battle of Bassano: Napoleon Bonaparte's French forces defeated the Austrian army near Bassano del Grappa. The Austrians suffered heavy casualties and were forced to retreat.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bassano_vernet.jpg/500px-Bassano_vernet.jpg",
+                "imgDescriptionEng": "Bonaparte after the Battle of Bassano"
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "date": "15 September 1796 ",
+        "category": "Military",
+        "incidentEng": "Battle of San Giorgio di Mantova: French forces under Napoleon Bonaparte engaged Austrian troops near San Giorgio di Mantova.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Detaille_Bonaparte_in_Italy_1797.jpg/500px-Detaille_Bonaparte_in_Italy_1797.jpg",
+                "imgDescriptionEng": "General Bonaparte and his staff observing Austrian prisoners"
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "date": "17 September 1796 ",
+        "category": "Political",
+        "incidentEng": "Creation of the Cispadane Republic: Napoleon Bonaparte established the Cispadane Republic, uniting the cities of Modena, Reggio, Bologna, and Ferrara under a French-influenced republican government, consolidating French political control in northern Italy.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "https://i.ytimg.com/vi/l1mMlv873PE/maxresdefault.jpg",
+                "imgDescriptionEng": "Flag Of Cispadane Republic "
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "date": "8 October 1796",
+        "category": "Political",
+        "incidentEng": "Napoleon  Bonaparte proclaimed the independence of the States of the Duke of Modena.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "",
+                "imgDescriptionEng": ""
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "date": "12 November 1796",
+        "category": "Military",
+        "incidentEng": "Battle of Caldiero: French forces under Napoleon Bonaparte clashed with Austrian troops near Caldiero in northern Italy. The battle involved heavy fighting, with Austrians mounting strong resistance, eventually withdrawing but preventing a decisive French breakthrough at the time.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "",
+                "imgDescriptionEng": ""
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "date": "17 November  1796",
+        "category": "Military",
+        "incidentEng": "Battle of Arcole: Napoleon Bonaparte's French forces engaged Austrian troops near Arcole over three days. Through bold maneuvers, including the famous crossing of the Arcole bridge, the French defeated the Austrians and secured a key victory in the Italian campaign.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/La_Bataille_du_Pont_d%27Arcole.jpg/500px-La_Bataille_du_Pont_d%27Arcole.jpg",
+                "imgDescriptionEng": "Napoleon Bonaparte Crossing of the Arcole Bridge"
+            },
+            {
+                "imgid": 2,
+                "imglink": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Arcola_cruce_del_rio_Adigio_en_Ronco.png/500px-Arcola_cruce_del_rio_Adigio_en_Ronco.png",
+                "imgDescriptionEng": "Battle of Arcole Bridge"
+            },
+            {
+                "imgid": 3,
+                "imglink": "https://www.worldhistory.org/img/r/p/1000x1200/17358.jpg.webp?v=1683142714-1683532220",
+                "imgDescriptionEng": "Napoleom Bonaparte Leading the Charge at Arcolee"
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "date": "14 January 1797 ",
+        "category": "Military",
+        "incidentEng": "Battle of Rivoli: Napoleon Bonaparte's French army decisively defeated the Austrian forces near Rivoli Veronese. The French successfully outmaneuvered and surrounded the Austrians, inflicting heavy casualties and capturing many prisoners, securing control over northern Italy.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Napoleon_at_the_Battle_of_Rivoli.jpg/500px-Napoleon_at_the_Battle_of_Rivoli.jpg",
+                "imgDescriptionEng": "Napoleon at the Battle of Rivoli"
+            },
+            {
+                "imgid": 2,
+                "imglink": "https: //www.lookandlearn.com/history-images/preview/M/M133/M133008_Battle-of-Rivoli-14-January-1797.jpg",
+                "imgDescriptionEng": "Depicts Napoleon Bonaparte at the Battle of Rivoli (14–15 January 1797)"
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "date": "16 January 1797",
+        "category": "Military",
+        "incidentEng": "Battle of La Favorita: French forces under Napoleon Bonaparte engaged Austrian troops near La Favorita during the siege of Mantua. The French succeeded in defeating the Austrians, tightening the blockade around Mantua and consolidating control over northern Italy.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bataille_de_la_Favorite_%28Vernet_engraving%29.jpg/500px-Bataille_de_la_Favorite_%28Vernet_engraving%29.jpg",
+                "imgDescriptionEng": "Battle of La Favorita"
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "date": "1st February 1797",
+        "category": "Military",
+        "incidentEng": "Napoleon Bonaparte entered Bologna.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "https://pauls-bologna.blog/wp-content/uploads/2025/07/img_5459-1.jpg?w=1440",
+                "imgDescriptionEng": "Napoleon Bonaparte exiling monks from Bologna"
+            }
+        ]
+    },
 ]
