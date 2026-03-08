@@ -1364,4 +1364,264 @@
             }
         ]
     },
+    {
+        "id": 71,
+        "date": "2 February 1797",
+        "category": "Military",
+        "incidentEng": "Austrian General Dagobert Sigmund von Wurmser surrendered Mantua to Napoleon Bonaparte's French forces, marking the end of the long siege. The French captured the city, its garrison, artillery, and supplies.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "",
+                "imgDescriptionEng": ""
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "date": "16 March 1797",
+        "category": "Military",
+        "incidentEng": "Battle of Valvasone: French forces under Napoleon Bonaparte engaged Austrian troops near Valvasone. The French victory forced the Austrians to retreat and consolidated French control over northern Italy towards the end of the Italian campaign.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "",
+                "imgDescriptionEng": ""
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "date": "15 May 1797",
+        "category": "Military",
+        "incidentEng": "Venice was occupied by French forces under Napoleon Bonaparte. The last Doge, Ludovico Manin, fled the Ducal Palace and a Provisional Municipality of Venice was established, ending the thousand‑year‑old Republic of Venice.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "",
+                "imgDescriptionEng": ""
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "date": "31 August 1797",
+        "category": "Diplomatic",
+        "incidentEng": "Peace negotiations with Austria began following the Italian campaign, leading to discussions that would culminate in the Treaty of Campo Formio. Napoleon Bonaparte's victories in northern Italy set the stage for favorable terms for France.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "",
+                "imgDescriptionEng": ""
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "date": "4 September 1797",
+        "category": "Political",
+        "incidentEng": "The 18th Fructidor coup took place in Paris, in which the French Directory moved against royalist and moderate factions in government. Key politicians were arrested or exiled, consolidating the Directory's control and maintaining the republican regime after the upheavals of the Revolution.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "",
+                "imgDescriptionEng": ""
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "date": "4 September 1797",
+        "category": "Diplomatic",
+        "incidentEng": "The Treaty of Campo Formio was signed between France and Austria, formally ending the Italian campaign. The treaty recognized French territorial gains in northern Italy, including the Cispadane and Cisalpine Republics, and reorganized territories in the region, marking a major diplomatic victory for Napoleon Bonaparte.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "https://www.lookandlearn.com/history-images/preview/M/M221/M221199_Treaty-of-Campo-Formio-Italy-17-October-1797.jpg",
+                "imgDescriptionEng": "Treaty of Campo Formio, Italy, 17 October 1797. The treaty concluded Napoelon's victorious campaign against the Austrians in Italy and ended the War of the First Coalition against France. "
+            },
+            {
+                "imgid": 2,
+                "imglink": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Peace_of_Basel.png/500px-Peace_of_Basel.png",
+                "imgDescriptionEng": "A map showing Central Europe after the Treaty of Campo Formio."
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "date": "26 November 1797",
+        "category": "Diplomatic",
+        "incidentEng": "Napoleon Bonaparte arrived in Rastatt to participate in diplomatic negotiations following the Treaty of Campo Formio. His presence aimed to ensure French interests were represented in the German states and to oversee the implementation of the treaty terms.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "",
+                "imgDescriptionEng": ""
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "date": "1 December 1797",
+        "category": "Diplomatic",
+        "incidentEng": "Napoleon Bonaparte departed Rastatt after signing agreements concerning the withdrawal of French forces. This marked the completion of his diplomatic mission in Rastatt, ensuring that French interests were secured in accordance with the Treaty of Campo Formio.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "",
+                "imgDescriptionEng": ""
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "date": "1 December 1797",
+        "category": "Personal",
+        "incidentEng": "Napoleon Bonaparte returned to Paris after completing his diplomatic mission in Rastatt. His return marked the conclusion of his transition from military campaigns in Italy to political and diplomatic roles in France.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "",
+                "imgDescriptionEng": ""
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "date": "1 December 1797",
+        "category": "Personal",
+        "incidentEng": "Napoleon Bonaparte was received with a grand ceremony at the Luxembourg Palace in Paris, celebrating his military successes in Italy and his diplomatic achievements in Rastatt. The reception emphasized his rising prominence in French political and public life.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "",
+                "imgDescriptionEng": ""
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "date": "5 March 1798",
+        "category": "Political",
+        "incidentEng": "The French Directory decided to launch a military expedition to Egypt under the command of General Napoleon Bonaparte. The plan aimed to weaken British influence in the Mediterranean and threaten British trade routes to India.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "",
+                "imgDescriptionEng": ""
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "date": "12 April 1798",
+        "category": "Military",
+        "incidentEng": "Napoleon Bonaparte was officially appointed Commander-in-Chief of the Army of the Orient. This army was assembled for the planned French expedition to Egypt, intended to challenge British influence in the eastern Mediterranean and disrupt British trade routes to India.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "",
+                "imgDescriptionEng": ""
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "date": "4 May 1798",
+        "category": "Military",
+        "incidentEng": "Napoleon Bonaparte departed from Paris to travel to Toulon, where the French fleet and the Army of the Orient were preparing for the expedition to Egypt.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "",
+                "imgDescriptionEng": ""
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "date": "19 May 1798",
+        "category": "Military",
+        "incidentEng": "The French fleet set sail for Egypt under the command of Napoleon Bonaparte. The expedition consisted of thirteen ships of the line, forty-two frigates, brigs and avisos, and around thirty transport vessels carrying approximately 37,000 soldiers of the Army of the Orient.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "",
+                "imgDescriptionEng": ""
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "date": "10 June 1798",
+        "category": "Military",
+        "incidentEng": "The French fleet commanded by Napoleon Bonaparte arrived and stopped in front of Malta during its voyage to Egypt. The stopover was part of the expedition's route across the Mediterranean and soon led to the French seizure of the island.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "",
+                "imgDescriptionEng": ""
+            }
+        ]
+    }
 ]
