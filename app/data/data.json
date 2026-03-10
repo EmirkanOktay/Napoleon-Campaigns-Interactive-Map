@@ -1619,8 +1619,223 @@
         "img": [
             {
                 "imgid": 1,
+                "imglink": "https://culture-malta.org/wp-content/uploads/2019/02/2-1.jpg?gid=138",
+                "imgDescriptionEng": "Napoleon and his officers greeted enthusiastically on their arrival in Valletta. "
+            },
+            {
+                "imgid": 2,
+                "imglink": "https://culture-malta.org/wp-content/uploads/2019/02/4-1.jpg?gid=138",
+                "imgDescriptionEng": "Napoleon disembarking at Valletta's harbour. "
+            }
+        ]
+    },
+    {
+        "id": 86,
+        "date": "1 July 1798",
+        "category": "Military",
+        "incidentEng": "Napoleon Bonaparte and the French expeditionary army landed in Egypt near Alexandria after crossing the Mediterranean. This landing marked the beginning of the French military campaign in Egypt.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "https://www.meisterdrucke.com/kunstwerke/800px/Onfray_de_Breville_Job_-_Arrived_in_the_land_of_the_Pharaohs_Napoleon_went_everywhere_followed_by_a_commi_-_%28MeisterDrucke-387001%29.jpg",
+                "imgDescriptionEng": "Upon arriving in the land of the pharaohs, Napoleon was greeted by a group of scholars and artists who had never ridden a camel before."
+            }
+        ]
+    },
+    {
+        "id": 87,
+        "date": "2 July 1798",
+        "category": "Military",
+        "incidentEng": "Napoleon Bonaparte entered Alexandria after the French landing in Egypt. He issued a proclamation to the Egyptian population urging them not to support the Mamluks and claiming that the French had come as liberators rather than conquerors.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "https://commons.wikimedia.org/wiki/File:Colson_Entr%C3%A9e_de_Napol%C3%A9on_%C3%A0_Alexandrie.JPG",
+                "imgDescriptionEng": "Painting depicting Napoleon Bonaparte entering Alexandria in July 1798 during the Egyptian campaign. The scene shows Napoleon on horseback leading French troops while local inhabitants watch, symbolizing the French capture of the city and the beginning of French control in Egypt."
+            },
+            {
+                "imgid": 2,
+                "imglink": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kath._Illustratie_1869-1870_nr_42_p.329_Verwonding_van_Kleber_voor_Alexandri%C3%AB.jpg/500px-Kath._Illustratie_1869-1870_nr_42_p.329_Verwonding_van_Kleber_voor_Alexandri%C3%AB.jpg",
+                "imgDescriptionEng": "Engraving showing General Jean-Baptiste Kléber wounded during the fighting near Alexandria in 1798, when French forces under Napoleon Bonaparte assaulted the city during the Egyptian campaign."
+            }
+        ]
+    },
+    {
+        "id": 88,
+        "date": "13 July 1798",
+        "category": "Military",
+        "incidentEng": "First French victory in Egypt at the Battle of Shubra Khit. Napoleon Bonaparte's forces defeated Mamluk cavalry led by Murad Bey using defensive infantry squares. In the evening, the French army camped on the banks of the Nile.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "https://scontent.fist4-1.fna.fbcdn.net/v/t39.30808-6/516096062_10161536371916367_1882289623250192536_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=103&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=1tiPJl0JL3YQ7kNvwHmuyee&_nc_oc=Adl2f_TsYRtsRqChhku09uUIHdZMdGUTjHV0RvXLVjNned51SjORk2OBx8w-Vk3C_rc&_nc_zt=23&_nc_ht=scontent.fist4-1.fna&_nc_gid=-Wu06N2-Gh1a-1Oz4kqPng&_nc_ss=8&oh=00_Afx7dcSpvGceu--Wlh0L9lMh78pLUtlGrsUSg54hOgE-7Q&oe=69B6375E",
+                "imgDescriptionEng": ""
+            },
+            {
+                "imgid": 2,
+                "imglink": "https: //historydraft.com/files/9000fe4e-5719-482b-aed9-f25964610483",
+                "imgDescriptionEng": "Illustration of the Battle of Shubra Khit where Napoleon’s army defeated the Mamluk forces near the Nile."
+            },
+            {
+                "imgid": 3,
+                "imglink": "https://historydraft.com/files/7ea0a48f-5055-44bc-8c5e-7679d5629bc2",
+                "imgDescriptionEng": "Battle fought on 13 July 1798 between Napoleon’s French army and the Mamluk forces near the Nile during the Egyptian campaign."
+            }
+        ]
+    },
+    {
+        "id": 89,
+        "date": "21 July 1798",
+        "category": "Military",
+        "incidentEng": "Napoleon Bonaparte’s French forces decisively defeated the Mamluk army near the Pyramids, using the famous infantry square formations to repel cavalry charges. The battle secured French control over the Nile Delta.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Francois-Louis-Joseph_Watteau_001.jpg/500px-Francois-Louis-Joseph_Watteau_001.jpg",
+                "imgDescriptionEng": "The Battle of the Pyramids, July 21,1798."
+            },
+            {
+                "imgid": 2,
+                "imglink": "https://i0.wp.com/insidegmt.com/wp-content/uploads/2025/02/NiH_Pyramids_4.png?w=1122&ssl=1",
+                "imgDescriptionEng": "Example of an engraving that places the battle at the foot of the Pyramids while it was, in fact, 20 km away"
+            },
+            {
+                "imgid": 3,
+                "imglink": "https://media.istockphoto.com/id/1468086192/tr/vekt%C3%B6r/napol%C3%A9on-bonaparte-wins-battle-of-pyramids-in-egypt-18th-century-world-history.jpg?s=612x612&w=0&k=20&c=o0SqEA9NtZO6LJCIWYdoMdXdoh-fLp84wbbkFhIlVKE=g",
+                "imgDescriptionEng": "Illustration of Napoleon Bonaparte’s French army winning the Battle of the Pyramids in Egypt in 1798, showing French infantry formations and Napoleon leading his troops with the pyramids in the background."
+            }
+        ]
+    },
+    {
+        "id": 90,
+        "date": "25 July 1798",
+        "category": "Military",
+        "incidentEng": "Napoleon Bonaparte entered Cairo after the French victory at the Battle of the Pyramids, establishing French control over the city and consolidating authority in the Nile Delta region.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "https://www.myartprints.co.uk/kunst/gustave_bourgain/napoleon_cairo_hi.jpg",
+                "imgDescriptionEng": "Illustration depicting Napoleon Bonaparte in Cairo during the Egyptian campaign of 1798, where he established French administrative authority, met with local leaders, and sought to implement reforms after entering the city."
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "date": "1 August 1798",
+        "category": "Historical",
+        "incidentEng": "The French fleet under Napoleon Bonaparte was decisively defeated by the British Royal Navy commanded by Admiral Horatio Nelson at the Battle of the Nile in Abukir Bay. Most of the French ships were captured or destroyed, leaving the French army stranded in Egypt.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/The_Battle_of_the_Nile.jpg/500px-The_Battle_of_the_Nile.jpg",
+                "imgDescriptionEng": "The Destruction of L'Orient at the Battle of the Nile"
+            },
+            {
+                "imgid": 2,
+                "imglink": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/HoratioNelson1.jpg/330px-HoratioNelson1.jpg",
+                "imgDescriptionEng": "Rear-Admiral Sir Horatio Nelson (1758-1805), Lemuel Francis Abbott, 1800, National Maritime Museum. Visible on his cocked hat is the aigrette presented by the Ottoman Sultan as a reward for the victory at the Nile"
+            },
+            {
+                "imgid": 3,
+                "imglink": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Pocock%27s_Battle_of_the_Nile.jpg/960px-Pocock%27s_Battle_of_the_Nile.jpg",
+                "imgDescriptionEng": "The Battle of the Nile, 1 August 1798"
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "date": "21 October 1798",
+        "category": "Military",
+        "incidentEng": "The population of Cairo revolted against the French occupation during the Egyptian campaign. During the uprising, General Dominique-Martin Dupuy was killed, highlighting the resistance of the local population to French rule",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Girodet.jpg/500px-Girodet.jpg",
+                "imgDescriptionEng": "The Revolt of Cairo"
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "date": "10 February 1799",
+        "category": "Military",
+        "incidentEng": "Napoleon Bonaparte departed Cairo with 13,000 soldiers, marching towards Syria (present-day Palestine) as part of the French expedition during the Egyptian campaign. This marked the beginning of French operations in the Levant.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
                 "imglink": "",
                 "imgDescriptionEng": ""
+            }
+        ]
+    },
+    {
+        "id": 94,
+        "date": "25 February 1799",
+        "category": "Military",
+        "incidentEng": "Napoleon Bonaparte and the French expeditionary army entered Gaza during their advance through Syria (present-day Palestine) as part of the Egyptian campaign.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "",
+                "imgDescriptionEng": ""
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "date": "3 March 1799",
+        "category": "Military",
+        "incidentEng": "Napoleon Bonaparte and the French expeditionary army arrived in front of Jaffa (present-day Israel/Palestine) during the Egyptian campaign's Syrian operations, preparing for the upcoming siege.",
+        "location": {
+            "lat": 0,
+            "lon": 0
+        },
+        "img": [
+            {
+                "imgid": 1,
+                "imglink": "https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/1734379/2462372/apilgutvd__83809.1626910606.jpg?c=2",
+                "imgDescriptionEng": "Napoleon Bonaparte Visiting The Plague Stricken at Jaffa "
+            },
+            {
+                "imgid": 1,
+                "imglink": "https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F3u1yv8zf4kl61.jpg",
+                "imgDescriptionEng": "Napoleon Bonaparte captured Jaffa in Palestine. After taking the city from Ottoman forces, Napoleon allowed his troops to rape and murder their way across the city for two days."
             }
         ]
     }
